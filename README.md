@@ -1,7 +1,7 @@
 ### Hi there, I'm Pranav ! 👋
 
 ## I'm a Student, Grandson, Developer, and Tech Freak!
-- 🔭 I’m currently working on an AI enabled machine!
+- 🔭 I’m currently working on an AI enabled machine Project
 - 🌱 I’m currently trying to learn everything to do with Computer Science 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="pranavshekhar1309@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-[<img align="left" alt="https://mobile.twitter.com/PranavS91495035 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-[<img align="left" alt="https://www.linkedin.com/in/pranav-shekhar-238328192 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-[<img align="left" alt="https://www.facebook.com/pranav.shekhar.7 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="pranavshekhar1309@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<img align="left" alt="https://mobile.twitter.com/PranavS91495035 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="https://www.linkedin.com/in/pranav-shekhar-238328192 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="https://www.facebook.com/pranav.shekhar.7 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 <br />
 
