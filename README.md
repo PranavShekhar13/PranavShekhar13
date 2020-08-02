@@ -39,7 +39,7 @@
 <br />
 
 ---
-<img src="images/filename%20spaces.gif" width="700" >
+<img src="images/filename%20spaces.gif" width="500" >
 
 
 
