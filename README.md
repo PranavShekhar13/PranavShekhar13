@@ -1,48 +1,25 @@
-### Hi there, I'm Pranav ! 👋
+<h2> Hello, I'm Pranav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://ibb.co/P59M1SD">
 
-## I'm a Student, Grandson, Developer, and Tech Freak!
-- 🔭 I’m currently working on an AI enabled machine Project
-- 🌱 I’m currently trying to learn everything to do with Computer Science 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to write and make things easy.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavShekhar13&color=blueviolet&style=plastic" alt="devded" /></p>
 
-### Connect with me:
 
-<img align="left" alt="pranavshekhar1309@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<img align="left" alt="https://mobile.twitter.com/PranavS91495035 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="https://www.linkedin.com/in/pranav-shekhar-238328192 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="https://www.facebook.com/pranav.shekhar.7 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+Hi I'm Pranav</strong>, currently pursuing a Bachelor's Degree focused on Computer Science and System Engineering at Kalinga Institute of Industrial Technology. I try to grab life by horns, am always up for a challenge and love problem solving or any debugging, whether it is related to my domain or not, I treat them with the same level of curiosity and always end up stumbling with learning something new. I have an high incination towards helping the community and my friends you might always find me fixing issues on someone's system or debugging their code.<strong>
 
-<br />
+<br/>
 
-### Languages and Tools:
+[![Linkedin Badge](https://img.shields.io/badge/-pranav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-shekhar-238328192/)](https://www.linkedin.com/in/pranav-shekhar-238328192/) [![Gmail Badge](https://img.shields.io/badge/-pranavshekhar1309@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=pranavshekhar1309@gmail.com&su=SUBJECT&body=BODY&tf=cm)](https://mail.google.com/mail/u/0/?fs=1&to=pranavshekhar1309@gmail.com&su=SUBJECT&body=BODY&tf=cm)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flutter/flutter.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="DevOps" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## :computer: Tools & Technologies I Love
+* **Project Management**: Jira, Trello, Github, Asana
+* **Frameworks/Libraries**: React, Redux, Gatsby, Node, ESLint
+* **Testing**: Cypress, Jest, Mocha
+* **Language**: JavaScript, TypeScript, Dart
+* **CI/CD**: Circle CI, Travis CI, Github Action
 
-<br />
-<br />
-
----
-<img src="images/filename%20spaces.gif" width="500" >
+## Tools I work with
+ <img src = 'https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg' height='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919853.svg' width='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919851.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/flutter-logo.svg' width='23'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/>  <img src = 'https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg' width='27'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919856.svg' width='30'/> <img src = 'https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/3556671901536211770-512.png' width='30'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png' width='30'/> <img src = 'https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/thumb/apollo-seeklogo.com_%281%29.png' width='30'/>
+ 
 
 
 
-[twitter]: https://mobile.twitter.com/PranavS91495035
-[linkedin]: https://www.linkedin.com/in/pranav-shekhar-238328192
-[facebook]: https://www.linkedin.com/in/pranav-shekhar-238328192
+![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=PranavShekhar13&show_icons=true&hide=[%22issues%22])
