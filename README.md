@@ -1,4 +1,4 @@
-<h2> Hello, I'm Pranav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/cNCw2mY/pranav.png">
+<h2> Hello, I'm Pranav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/R2Wk5jf/Snapchat-1156621553-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavShekhar13&color=blueviolet&style=plastic" alt="devded" /></p>
 
